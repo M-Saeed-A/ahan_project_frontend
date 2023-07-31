@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-28020728.5df24eb",
+    "@nuxtjs/tailwindcss": "^6.6.5",
+    "nuxt": "^3.3.2"
+  }
+}

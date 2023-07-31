@@ -1,0 +1,830 @@
+App: nuxtapp-ahan
+Path: D:\after\ahan_project\ahan_frontend
+Detected platform: node
+Port: 3000
+Creating an archive...
+Compressed size: 1.3MB (use .gitignore to reduce the size)
+upload started
+upload finish
+Finish Release.
+Creating Release...
+> Fetching the source code: 0%
+
+> Fetching the source code: 100%
+
+
+
+> Preparing the build environment...
+
+
+
+Step 1/1 : FROM registry2.iran.liara.ir/platforms/node-platform:release-2023-03-18T15-30-node16
+
+
+# Executing 16 build trigger
+s
+
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+
+> build
+> nuxt build
+
+
+Nuxi 3.3.3
+
+Nuxt 3.3.3 with Nitro 2.3.2
+
+ℹ Using Tailwind CSS from ~/assets/css/tailwind.css
+
+ℹ Building client...
+
+ℹ vite v4.2.1 building for production...
+
+ℹ transforming...
+
+ℹ ✓ 121 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ computing gzip size...
+
+ℹ .nuxt/dist/client/manifest.json                                   6.73 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.35740bc0.woff2      49.04 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.b1246659.woff2        49.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.f1067340.woff2         49.56 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.484fad63.woff2     49.61 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.f7193733.woff2    49.63 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.57316b17.woff2        49.71 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.cfecf151.woff2       49.78 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cb5350cc.woff2   49.82 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.59df46af.woff2         49.87 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.0547cd71.ttf        118.86 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.f9387e59.ttf       118.96 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.eddf8788.ttf      119.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.758d75de.ttf         119.12 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.61415ac8.ttf          119.25 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cac94970.ttf    119.46 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.72ecd2a8.ttf     119.52 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.1e3173c6.ttf         119.55 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.671f7442.ttf          120.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.06afe660.css                       25.81 kB │ gzip:  5.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/pipe.147c9d4c.js                          2.20 kB │ gzip:  1.14 kB
+
+ℹ .nuxt/dist/client/_nuxt/_iron_.2376fa5e.js                        2.47 kB │ gzip:  1.33 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-img.f25c4331.js                      2.71 kB │ gzip:  1.06 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.39b7f2be.js                         2.74 kB │ gzip:  1.23 kB
+
+ℹ .nuxt/dist/client/_nuxt/_id_.f8803acd.js                          3.02 kB │ gzip:  1.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-link.3a4d0cdf.js                     4.32 kB │ gzip:  1.83 kB
+
+ℹ .nuxt/dist/client/_nuxt/default.77794795.js                       5.85 kB │ gzip:  2.61 kB
+
+ℹ .nuxt/dist/client/_nuxt/_post_.3a0bf2d4.js                        8.95 kB │ gzip:  3.50 kB
+
+ℹ .nuxt/dist/client/_nuxt/error-component.981e0bfc.js               9.26 kB │ gzip:  3.54 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.fbcacc5a.js                        22.88 kB │ gzip:  8.90 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.1d250fbc.js                       152.78 kB │ gzip: 57.99 kB
+
+ℹ ✓ built in 3.75s
+
+✔ Client built in 3777ms
+
+ℹ Building server...
+
+ℹ vite v4.2.1 building SSR bundle for production...
+
+ℹ transforming...
+
+ℹ ✓ 83 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ .nuxt/dist/server/styles.mjs                           0.07 kB
+
+ℹ .nuxt/dist/server/_nuxt/island-renderer-bad7e7d3.js    1.07 kB │ map:  1.31 kB
+
+ℹ .nuxt/dist/server/_nuxt/_iron_-6a992031.js             3.27 kB │ map:  3.43 kB
+
+ℹ .nuxt/dist/server/_nuxt/pipe-1899004f.js               3.94 kB │ map:  3.47 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-8fdc1b8a.js              5.12 kB │ map:  4.33 kB
+
+ℹ .nuxt/dist/server/_nuxt/_id_-ae55afb5.js               5.23 kB │ map:  5.01 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-img-e968d096.js           5.30 kB │ map: 10.79 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-link-70ecac3f.js          5.97 kB │ map: 13.09 kB
+
+ℹ .nuxt/dist/server/_nuxt/default-9851a2c3.js            8.90 kB │ map: 11.08 kB
+
+ℹ .nuxt/dist/server/_nuxt/_post_-ba249e92.js            17.38 kB │ map: 19.62 kB
+
+ℹ .nuxt/dist/server/_nuxt/error-component-6288ebb5.js   25.42 kB │ map: 14.65 kB
+
+ℹ .nuxt/dist/server/_nuxt/css-styles-1.mjs-1b989c53.js  26.61 kB │ map:  0.11 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-eef6f9d2.js             29.65 kB │ map:  0.39 kB
+
+ℹ .nuxt/dist/server/server.mjs                          44.86 kB │ map: 98.23 kB
+
+ℹ ✓ built in 2.30s
+
+✔ Server built in 2313ms
+
+✔ Generated public .output/public
+
+ℹ Building Nitro Server (preset: node-server)
+
+✔ Nitro server built
+
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs (5.48 kB) (1.88 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs.map (3.08 kB) (902 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs (5.59 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs.map (1.2 kB) (499 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-ba249e92.mjs (18.5 kB) (4.3 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-ba249e92.mjs.map (14 kB) (2.5 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-9851a2c3.mjs (11.6 kB) (3.16 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-9851a2c3.mjs.map (5.43 kB) (1.44 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs (26.6 kB) (5.23 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs.map (8.44 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs (5.37 kB) (1.84 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs.map (2.97 kB) (877 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-eef6f9d2.mjs (33.8 kB) (9.55 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-eef6f9d2.mjs.map (8.53 kB) (1.29 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs (1.31 kB) (590 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs.map (860 B) (405 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs (4.7 kB) (1.4 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs.map (5.84 kB) (1.35 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs (5.98 kB) (1.66 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs.map (5.84 kB) (1.44 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs (5.04 kB) (1.74 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs.map (2.05 kB) (752 B gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs (10.8 kB) (1.25 kB gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs.map (7.87 kB) (967 B gzip)
+  ├─ .output/server/chunks/app/server.mjs (45.1 kB) (12 kB gzip)
+  ├─ .output/server/chunks/app/server.mjs.map (56.3 kB) (8.67 kB gzip)
+  ├─ .output/server/chunks/app/styles.mjs (86 B) (93 B gzip)
+  ├─ .output/server/chunks/app/styles.mjs.map (141 B) (128 B gzip)
+  ├─ .output/server/chunks/error-500.mjs (4.26 kB) (1.82 kB gzip)
+  ├─ .output/server/chunks/error-500.mjs.map (1.05 kB) (383 B gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs (16.3 kB) (5.01 kB gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs.map (20.2 kB) (3.55 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs (30 kB) (8.46 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs.map (86 kB) (6.15 kB gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs (325 B) (233 B gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs.map (111 B) (112 B gzip)
+  ├─ .output/server/index.mjs (504 B) (266 B gzip)
+  └─ .output/server/package.json (1.53 kB) (574 B gzip)
+Σ Total size: 20.4 MB (8.12 MB gzip)
+
+✔ You can preview this build using node .output/server/index.mjs
+
+> Configuring timezone: Asia/Tehran
+
+ ---> 6b9eac3c47a9
+
+Successfully built 6b9eac3c47a9
+
+Successfully tagged apps/nuxtapp-ahan:pzcfhk1laa7o
+
+Build finished.
+Pushing the image...
+Release Created.
+Deployment finished successfully.
+https://nuxtapp-ahan.iran.liara.run
+App: nuxtapp-ahan
+Path: D:\after\ahan_project\ahan_frontend
+Detected platform: node
+Port: 3000
+Creating an archive...
+Compressed size: 1.3MB (use .gitignore to reduce the size)
+upload started
+upload finish
+Finish Release.
+Creating Release...
+> Fetching the source code: 0%
+
+> Fetching the source code: 15%
+
+> Fetching the source code: 41%
+
+> Fetching the source code: 90%
+
+> Fetching the source code: 100%
+
+
+
+> Preparing the build environment...
+
+
+
+Step 1/1 : FROM registry2.iran.liara.ir/platforms/node-platform:release-2023-03-18T15-30-node16
+
+
+# Executing 16 build trigger
+s
+
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+> Running npm ci...
+
+[91mnpm WARN deprecated[0m
+[91m sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+[0m
+
+> postinstall
+> nuxt prepare
+
+
+Nuxi 3.3.3
+
+✔ Types generated in .nuxt
+
+
+added 817 packages, and audited 818 packages in 14s
+
+
+
+125 packages are looking for funding
+
+  run `npm fund` for details
+
+
+found 0 vulnerabilities
+
+
+> build
+> nuxt build
+
+
+Nuxi 3.3.3
+
+Nuxt 3.3.3 with Nitro 2.3.2
+
+ℹ Using Tailwind CSS from ~/assets/css/tailwind.css
+
+ℹ Building client...
+
+ℹ vite v4.2.1 building for production...
+
+ℹ transforming...
+
+ℹ ✓ 121 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ computing gzip size...
+
+ℹ .nuxt/dist/client/manifest.json                                   6.73 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.35740bc0.woff2      49.04 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.b1246659.woff2        49.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.f1067340.woff2         49.56 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.484fad63.woff2     49.61 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.f7193733.woff2    49.63 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.57316b17.woff2        49.71 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.cfecf151.woff2       49.78 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cb5350cc.woff2   49.82 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.59df46af.woff2         49.87 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.0547cd71.ttf        118.86 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.f9387e59.ttf       118.96 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.eddf8788.ttf      119.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.758d75de.ttf         119.12 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.61415ac8.ttf          119.25 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cac94970.ttf    119.46 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.72ecd2a8.ttf     119.52 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.1e3173c6.ttf         119.55 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.671f7442.ttf          120.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.06afe660.css                       25.81 kB │ gzip:  5.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/pipe.147c9d4c.js                          2.20 kB │ gzip:  1.14 kB
+
+ℹ .nuxt/dist/client/_nuxt/_iron_.2376fa5e.js                        2.47 kB │ gzip:  1.33 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-img.f25c4331.js                      2.71 kB │ gzip:  1.06 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.39b7f2be.js                         2.74 kB │ gzip:  1.23 kB
+
+ℹ .nuxt/dist/client/_nuxt/_id_.f8803acd.js                          3.02 kB │ gzip:  1.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-link.3a4d0cdf.js                     4.32 kB │ gzip:  1.83 kB
+
+ℹ .nuxt/dist/client/_nuxt/default.77794795.js                       5.85 kB │ gzip:  2.61 kB
+
+ℹ .nuxt/dist/client/_nuxt/_post_.3a0bf2d4.js                        8.95 kB │ gzip:  3.50 kB
+
+ℹ .nuxt/dist/client/_nuxt/error-component.981e0bfc.js               9.26 kB │ gzip:  3.54 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.fbcacc5a.js                        22.88 kB │ gzip:  8.90 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.1d250fbc.js                       152.78 kB │ gzip: 57.99 kB
+
+ℹ ✓ built in 3.54s
+
+✔ Client built in 3564ms
+
+ℹ Building server...
+
+ℹ vite v4.2.1 building SSR bundle for production...
+
+ℹ transforming...
+
+ℹ ✓ 83 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ .nuxt/dist/server/styles.mjs                           0.07 kB
+
+ℹ .nuxt/dist/server/_nuxt/island-renderer-bad7e7d3.js    1.07 kB │ map:  1.31 kB
+
+ℹ .nuxt/dist/server/_nuxt/_iron_-6a992031.js             3.27 kB │ map:  3.43 kB
+
+ℹ .nuxt/dist/server/_nuxt/pipe-1899004f.js               3.94 kB │ map:  3.47 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-8fdc1b8a.js              5.12 kB │ map:  4.33 kB
+
+ℹ .nuxt/dist/server/_nuxt/_id_-ae55afb5.js               5.23 kB │ map:  5.01 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-img-e968d096.js           5.30 kB │ map: 10.79 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-link-70ecac3f.js          5.97 kB │ map: 13.09 kB
+
+ℹ .nuxt/dist/server/_nuxt/default-9851a2c3.js            8.90 kB │ map: 11.08 kB
+
+ℹ .nuxt/dist/server/_nuxt/_post_-ba249e92.js            17.38 kB │ map: 19.62 kB
+
+ℹ .nuxt/dist/server/_nuxt/error-component-6288ebb5.js   25.42 kB │ map: 14.65 kB
+
+ℹ .nuxt/dist/server/_nuxt/css-styles-1.mjs-1b989c53.js  26.61 kB │ map:  0.11 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-eef6f9d2.js             29.65 kB │ map:  0.39 kB
+
+ℹ .nuxt/dist/server/server.mjs                          44.86 kB │ map: 98.23 kB
+
+ℹ ✓ built in 2.23s
+
+✔ Server built in 2240ms
+
+✔ Generated public .output/public
+
+ℹ Building Nitro Server (preset: node-server)
+
+✔ Nitro server built
+
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs (5.48 kB) (1.88 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs.map (3.08 kB) (902 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs (5.59 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs.map (1.2 kB) (499 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-ba249e92.mjs (18.5 kB) (4.3 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-ba249e92.mjs.map (14 kB) (2.5 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-9851a2c3.mjs (11.6 kB) (3.16 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-9851a2c3.mjs.map (5.43 kB) (1.44 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs (26.6 kB) (5.23 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs.map (8.44 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs (5.37 kB) (1.84 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs.map (2.97 kB) (877 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-eef6f9d2.mjs (33.8 kB) (9.55 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-eef6f9d2.mjs.map (8.53 kB) (1.29 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs (1.31 kB) (590 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs.map (860 B) (405 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs (4.7 kB) (1.4 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs.map (5.84 kB) (1.35 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs (5.98 kB) (1.66 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs.map (5.84 kB) (1.44 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs (5.04 kB) (1.74 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs.map (2.05 kB) (752 B gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs (10.8 kB) (1.25 kB gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs.map (7.87 kB) (967 B gzip)
+  ├─ .output/server/chunks/app/server.mjs (45.1 kB) (12 kB gzip)
+  ├─ .output/server/chunks/app/server.mjs.map (56.3 kB) (8.67 kB gzip)
+  ├─ .output/server/chunks/app/styles.mjs (86 B) (93 B gzip)
+  ├─ .output/server/chunks/app/styles.mjs.map (141 B) (128 B gzip)
+  ├─ .output/server/chunks/error-500.mjs (4.26 kB) (1.82 kB gzip)
+  ├─ .output/server/chunks/error-500.mjs.map (1.05 kB) (383 B gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs (16.3 kB) (5.01 kB gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs.map (20.2 kB) (3.55 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs (30 kB) (8.46 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs.map (86 kB) (6.15 kB gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs (325 B) (233 B gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs.map (111 B) (112 B gzip)
+  ├─ .output/server/index.mjs (504 B) (266 B gzip)
+  └─ .output/server/package.json (1.53 kB) (574 B gzip)
+Σ Total size: 20.4 MB (8.12 MB gzip)
+
+✔ You can preview this build using node .output/server/index.mjs
+
+> Configuring timezone: Asia/Tehran
+
+ ---> 0ee3b10cc7c9
+
+Successfully built 0ee3b10cc7c9
+
+Successfully tagged apps/nuxtapp-ahan:taelcdlv1lr3
+
+Build finished.
+Pushing the image...
+Image pushed.
+Release Created.
+Deployment finished successfully.
+https://nuxtapp-ahan.iran.liara.run
+App: nuxtapp-ahan
+Path: D:\after\ahan_project\ahan_frontend
+Detected platform: node
+Port: 3000
+Creating an archive...
+Compressed size: 1.12MB (use .gitignore to reduce the size)
+upload started
+upload finish
+Finish Release.
+Creating Release...
+> Fetching the source code: 0%
+
+> Fetching the source code: 69%
+
+> Fetching the source code: 100%
+
+
+
+> Preparing the build environment...
+
+
+
+Step 1/1 : FROM registry2.iran.liara.ir/platforms/node-platform:release-2023-03-18T15-30-node16
+
+
+# Executing 16 build trigger
+s
+
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+> Running npm ci...
+
+[91mnpm WARN deprecated[0m
+[91m sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+[0m
+
+> postinstall
+> nuxt prepare
+
+
+Nuxi 3.3.3
+
+✔ Types generated in .nuxt
+
+
+added 817 packages, and audited 818 packages in 11s
+
+
+125 packages are looking for funding
+
+  run `npm fund` for details
+
+
+found 0 vulnerabilities
+
+
+> build
+> nuxt build
+
+
+Nuxi 3.3.3
+
+Nuxt 3.3.3 with Nitro 2.3.2
+
+ℹ Using Tailwind CSS from ~/assets/css/tailwind.css
+
+ℹ Building client...
+
+ℹ vite v4.2.1 building for production...
+
+ℹ transforming...
+
+ℹ ✓ 121 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ computing gzip size...
+
+ℹ .nuxt/dist/client/manifest.json                                   6.70 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.35740bc0.woff2      49.04 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.b1246659.woff2        49.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.f1067340.woff2         49.56 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.484fad63.woff2     49.61 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.f7193733.woff2    49.63 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.57316b17.woff2        49.71 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.cfecf151.woff2       49.78 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cb5350cc.woff2   49.82 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.59df46af.woff2         49.87 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Medium.0547cd71.ttf        118.86 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Regular.f9387e59.ttf       118.96 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-SemiBold.eddf8788.ttf      119.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Light.758d75de.ttf         119.12 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Bold.61415ac8.ttf          119.25 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraLight.cac94970.ttf    119.46 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-ExtraBold.72ecd2a8.ttf     119.52 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Black.1e3173c6.ttf         119.55 kB
+
+ℹ .nuxt/dist/client/_nuxt/Vazirmatn-FD-Thin.671f7442.ttf          120.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.06afe660.css                       25.81 kB │ gzip:  5.10 kB
+
+ℹ .nuxt/dist/client/_nuxt/pipe.48e9d4ad.js                          2.20 kB │ gzip:  1.14 kB
+
+ℹ .nuxt/dist/client/_nuxt/_iron_.bda499ff.js                        2.47 kB │ gzip:  1.33 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-img.71cdff15.js                      2.71 kB │ gzip:  1.06 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.58358513.js                         2.74 kB │ gzip:  1.23 kB
+
+ℹ .nuxt/dist/client/_nuxt/_id_.014b6c2a.js                          3.02 kB │ gzip:  1.34 kB
+
+ℹ .nuxt/dist/client/_nuxt/nuxt-link.4b07174f.js                     4.32 kB │ gzip:  1.83 kB
+
+ℹ .nuxt/dist/client/_nuxt/default.415e226e.js                       8.86 kB │ gzip:  3.79 kB
+
+ℹ .nuxt/dist/client/_nuxt/_post_.2055dc06.js                        8.93 kB │ gzip:  3.48 kB
+
+ℹ .nuxt/dist/client/_nuxt/error-component.4d9f95b3.js               9.26 kB │ gzip:  3.54 kB
+
+ℹ .nuxt/dist/client/_nuxt/index.8b239560.js                        23.03 kB │ gzip:  9.00 kB
+
+ℹ .nuxt/dist/client/_nuxt/entry.9529bcd2.js                       152.76 kB │ gzip: 57.99 kB
+
+ℹ ✓ built in 3.65s
+
+✔ Client built in 3660ms
+
+ℹ Building server...
+
+ℹ vite v4.2.1 building SSR bundle for production...
+
+ℹ transforming...
+
+ℹ ✓ 83 modules transformed.
+
+ℹ rendering chunks...
+
+ℹ .nuxt/dist/server/styles.mjs                           0.07 kB
+
+ℹ .nuxt/dist/server/_nuxt/island-renderer-bad7e7d3.js    1.07 kB │ map:  1.31 kB
+
+ℹ .nuxt/dist/server/_nuxt/_iron_-6a992031.js             3.27 kB │ map:  3.43 kB
+
+ℹ .nuxt/dist/server/_nuxt/pipe-1899004f.js               3.94 kB │ map:  3.47 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-8fdc1b8a.js              5.12 kB │ map:  4.33 kB
+
+ℹ .nuxt/dist/server/_nuxt/_id_-ae55afb5.js               5.23 kB │ map:  5.01 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-img-e968d096.js           5.30 kB │ map: 10.79 kB
+
+ℹ .nuxt/dist/server/_nuxt/nuxt-link-70ecac3f.js          5.97 kB │ map: 13.09 kB
+
+ℹ .nuxt/dist/server/_nuxt/default-af4afe0b.js           16.44 kB │ map: 15.73 kB
+
+ℹ .nuxt/dist/server/_nuxt/_post_-422639da.js            17.35 kB │ map: 19.59 kB
+
+ℹ .nuxt/dist/server/_nuxt/error-component-6288ebb5.js   25.42 kB │ map: 14.65 kB
+
+ℹ .nuxt/dist/server/_nuxt/css-styles-1.mjs-1b989c53.js  26.61 kB │ map:  0.11 kB
+
+ℹ .nuxt/dist/server/_nuxt/index-4ef8ad2f.js             29.97 kB │ map: 28.33 kB
+
+ℹ .nuxt/dist/server/server.mjs                          44.86 kB │ map: 98.23 kB
+
+ℹ ✓ built in 2.18s
+
+✔ Server built in 2194ms
+
+✔ Generated public .output/public
+
+ℹ Building Nitro Server (preset: node-server)
+
+✔ Nitro server built
+
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs (5.48 kB) (1.88 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_id_-ae55afb5.mjs.map (3.08 kB) (902 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs (5.59 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_iron_-6a992031.mjs.map (1.2 kB) (499 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-422639da.mjs (18.4 kB) (4.28 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/_post_-422639da.mjs.map (13.9 kB) (2.48 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-af4afe0b.mjs (19.2 kB) (4.58 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/default-af4afe0b.mjs.map (8.49 kB) (1.77 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs (26.6 kB) (5.23 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/error-component-6288ebb5.mjs.map (8.44 kB) (1.76 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-4ef8ad2f.mjs (33.5 kB) (9.66 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-4ef8ad2f.mjs.map (8.95 kB) (1.43 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs (5.37 kB) (1.84 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/index-8fdc1b8a.mjs.map (2.97 kB) (877 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs (1.31 kB) (590 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/island-renderer-bad7e7d3.mjs.map (860 B) (405 B gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs (4.7 kB) (1.4 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-img-e968d096.mjs.map (5.84 kB) (1.35 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs (5.98 kB) (1.66 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/nuxt-link-70ecac3f.mjs.map (5.84 kB) (1.44 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs (5.04 kB) (1.74 kB gzip)
+  ├─ .output/server/chunks/app/_nuxt/pipe-1899004f.mjs.map (2.05 kB) (752 B gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs (10.8 kB) (1.25 kB gzip)
+  ├─ .output/server/chunks/app/client.manifest.mjs.map (7.85 kB) (970 B gzip)
+  ├─ .output/server/chunks/app/server.mjs (45.1 kB) (12 kB gzip)
+  ├─ .output/server/chunks/app/server.mjs.map (56.3 kB) (8.67 kB gzip)
+  ├─ .output/server/chunks/app/styles.mjs (86 B) (93 B gzip)
+  ├─ .output/server/chunks/app/styles.mjs.map (141 B) (128 B gzip)
+  ├─ .output/server/chunks/error-500.mjs (4.26 kB) (1.82 kB gzip)
+  ├─ .output/server/chunks/error-500.mjs.map (1.05 kB) (383 B gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs (16.3 kB) (5.01 kB gzip)
+  ├─ .output/server/chunks/handlers/renderer.mjs.map (20.2 kB) (3.55 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs (29.6 kB) (8.35 kB gzip)
+  ├─ .output/server/chunks/nitro/node-server.mjs.map (86 kB) (6.15 kB gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs (325 B) (233 B gzip)
+  ├─ .output/server/chunks/rollup/_virtual_head-static.mjs.map (111 B) (112 B gzip)
+  ├─ .output/server/index.mjs (504 B) (266 B gzip)
+  └─ .output/server/package.json (1.53 kB) (574 B gzip)
+Σ Total size: 20.4 MB (8.12 MB gzip)
+
+✔ You can preview this build using node .output/server/index.mjs
+
+> Configuring timezone: Asia/Tehran
+
+ ---> 1d2f0de02afe
+
+Successfully built 1d2f0de02afe
+
+Successfully tagged apps/nuxtapp-ahan:1rk13fpleh9i
+
+Build finished.
+Pushing the image...
+Release Created.
+Deployment finished successfully.
+https://nuxtapp-ahan.iran.liara.run
+App: nuxtapp-ahan
+Path: D:\after\ahan_project\ahan_frontend
+Detected platform: node
+Port: 3000
+Creating an archive...
+Compressed size: 1.12MB (use .gitignore to reduce the size)
+upload started
+upload finish
+Finish Release.
+Creating Release...
+> Fetching the source code: 0%
+
+> Fetching the source code: 100%
+
+
+
+> Preparing the build environment...
+
+
+
+Step 1/1 : FROM registry2.iran.liara.ir/platforms/node-platform:release-2023-03-18T15-30-node16
+
+
+# Executing 16 build trigger
+s
+
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+ ---> Using cache
+
+> Running npm ci...
+
+[91mnpm WARN deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+[0m
+[91mnpm WARN[0m
+[91m deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+[0m
+
+> postinstall
+> nuxt prepare
+
+
+Nuxi 3.3.3
+
+✔ Types generated in .nuxt
+
+
+added 862 packages, and audited 863 packages in 11s
+
+
+130 packages are looking for funding
+  run `npm fund` for details
+
+
+found 0 vulnerabilities
+
+
+> build
+> nuxt build
+
+
+Nuxi 3.3.3
+
+Nuxt 3.3.3 with Nitro 2.3.2
+
+ℹ Using Tailwind CSS from ~/assets/css/tailwind.css
+
+[91m
+ ERROR  Cannot read properties of undefined (reading 'options')
+
+  at _default (node_modules/nuxt-precompress/lib/module.js:7:28)
+  at installModule (node_modules/@nuxt/kit/dist/index.mjs:452:21)
+  at async initNuxt (node_modules/nuxt/dist/index.mjs:2477:7)
+  at async loadNuxt (node_modules/nuxt/dist/index.mjs:2531:5)
+  at async loadNuxt (node_modules/@nuxt/kit/dist/index.mjs:540:19)
+  at async Object.invoke (node_modules/nuxi/dist/chunks/build.mjs:41:18)
+  at async _main (node_modules/nuxi/dist/cli.mjs:49:20)
+
+[0m
+The command '/bin/bash -o pipefail -c npm run --if-present build' returned a non-zero code: 1
